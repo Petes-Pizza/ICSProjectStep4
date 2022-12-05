@@ -6,3 +6,6 @@ The logic that interacts with the MYSQL database is in index.js and route.js. Th
 
 # Front-end
 The front-end is in the "build" folder, it is html, css, and js, but it won't be very readable because it is transpiled from the source code in the "src" folder. If you want to see the front-end code, it can be located in the "src" folder.
+
+Full App:
+https://github.com/m-scarr/bingobaby
